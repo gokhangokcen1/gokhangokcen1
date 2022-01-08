@@ -3,7 +3,6 @@
 
   * :hourglass_flowing_sand: I’m currently learning **golang, web application security**
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/gokhangokcenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokhangokcenn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gokhangokcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhangokcen" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/g0kh4n" target="blank"><img align="center" src="https://onurgule.com.tr/wp-content/uploads/2021/07/THMlogo.png" alt="g0kh4n" height="30" width="50" /></a>
 <a href="https://medium.com/@gokhangokcen" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="gokhangokcen" height="30" width="40" /></a>
