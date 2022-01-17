@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gökhan</h1>
 <h3 align="center">Cyber Security Researcher*</h3>
 
-  * :hourglass_flowing_sand: I’m currently learning **Go, Web Application Security**
+  * :hourglass_flowing_sand: I’m currently learning **Go, Web Application Security, and Blue Team Operations**
   * :seedling: I'm taking notes about **C|EH, CompTIA A+, Network+, Security+, Cisco CyberOps Associate**. When these are finished I will publish the notes in here.
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/gokhangokcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhangokcen" height="30" width="40" /></a>
