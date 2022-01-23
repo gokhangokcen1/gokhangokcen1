@@ -4,7 +4,6 @@
   * :hourglass_flowing_sand: I’m currently learning **Go, Web Application Security, and Blue Team Operations**
   * :seedling: I'm studying about 
     * C|EH 
-    * CompTIA A+
     * CompTIA Network+
     * CompTIA Security+
     * Cisco CyberOps Associate 
