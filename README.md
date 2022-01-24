@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gökhan</h1>
-<h3 align="center">Cyber Security Researcher*</h3>
+<h3 align="center">Cyber Security Enthusiast</h3>
 
   * :hourglass_flowing_sand: I’m currently learning **Go, Web Application Security, and Blue Team Operations**
   * :seedling: I'm studying about 
