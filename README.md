@@ -20,32 +20,43 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align = "left" > <a href = "https://go.dev/" target =
+<p align = "left" > <a href = "#" target =
   "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg"
   alt = "go" width = "40" height = "40" / ></a > <a href =
-  "https://www.python.org/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg"
   alt = "python" width = "40" height = "40" / ></a > <a href =
-  "https://www.w3schools.in/c-tutorial/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg"
   alt = "C" width = "40" height = "40" / ></a > <a href =
-  "https://www.cplusplus.com/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" 
   alt = "C++" width = "40" height = "40" / ></a > <a href =
-  "https://www.linux.org/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt =
   "linux" width = "40" height = "40" / ></a > <a href =
-  "https://www.kali.org/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt =
   "kali linux" width = "40" height = "40" / ></a > <a href =
-  "https://securityonionsolutions.com/" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://cylab.be/storage/blog/65/files/GczoDUuisS9oISm7pRkZLQjEjpjQ5jWsMJdAm8Yu.png" alt =
   "security onion" width = "50" height = "40" / ></a > <a href =
-  "https://github.com/rapid7/metasploit-framework" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://banner2.cleanpng.com/20180524/egt/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg" alt = "metasploit" width = "40" height = "40" / ></a ><a href =
-  "https://www.wireshark.org/" target = "_blank" > <img src =
-  "https://www.wireshark.org/assets/images/sflogo.png" alt = "wireshark" width = "40" height = "40" / ></a >
+  "#" target = "_blank" > <img src =
+  "https://www.wireshark.org/assets/images/sflogo.png" alt = "wireshark" width = "40" height = "40" / ></a ><a href =
+  "#" target = "_blank" > <img src =
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt = "html" width = "40" height = "40" / ></a ><a href =
+  "#" target = "_blank" > <img src =
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt = "css" width = "40" height = "40" / ></a ><a href =
+  "#" target = "_blank" > <img src =
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt = "bootstrap" width = "40" height = "40" / ></a ><a href =
+  "#" target = "_blank" > <img src =
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt = "bootstrap" width = "40" height = "40" / ></a ><a href =
+  "#" target = "_blank" > <img src =
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt = "bootstrap" width = "40" height = "40" / ></a >
+ 
   
   </p >
   
