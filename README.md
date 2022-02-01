@@ -24,13 +24,13 @@
   "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg"
   alt = "go" width = "40" height = "40" / ></a > <a href =
-  "" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg"
   alt = "python" width = "40" height = "40" / ></a > <a href =
-  "" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg"
   alt = "C" width = "40" height = "40" / ></a > <a href =
-  "" target = "_blank" > <img src =
+  "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" 
   alt = "C++" width = "40" height = "40" / ></a > <a href =
   "#" target = "_blank" > <img src =
