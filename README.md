@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gökhan</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
-♝Highly motivated individual with interests in Penetration Testing, Blue Team Operations/SOC Analysis/Threat Hunting/Malware Analysis</br>
+♝Highly motivated individual with interests in Penetration Testing, Blue Team Operations/SOC Analysis/Threat Hunting.
 </br>
 ♝I am Enthusiastic about latest technology trends moving businesses forward, passionate and focus on preventing and stopping cyber-attacks.</br>
 </br>
