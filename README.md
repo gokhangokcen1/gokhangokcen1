@@ -5,7 +5,7 @@
 ♝I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
 
-  * :hourglass_flowing_sand: I’m currently learning **Go, Cloud Computing, and Blue Team Operations**
+  * :hourglass_flowing_sand: I’m currently learning **Go, Cloud Security, and Blue Team Operations**
   * I'm studying about 
     * :seedling: CompTIA Network+
     * :seedling: Cisco CyberOps Associate 
