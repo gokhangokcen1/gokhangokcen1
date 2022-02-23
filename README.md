@@ -10,7 +10,6 @@
   * :hourglass_flowing_sand: I’m currently learning **Go, Cloud Computing, and Blue Team Operations**
   * I'm studying about 
     * :seedling: CompTIA Network+
-    * :seedling: CompTIA Security+
     * :seedling: Cisco CyberOps Associate 
     * :seedling: AWS Solutions Architect Associate 
 <h3 align="left">Connect with me:</h3>
