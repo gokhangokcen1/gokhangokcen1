@@ -2,8 +2,6 @@
 <h3 align="center">Cyber Security Enthusiast</h3>
 ♝Highly motivated individual with interests in Penetration Testing, Blue Team Operations/SOC Analysis/Threat Hunting.
 </br>
-♝I am Enthusiastic about latest technology trends moving businesses forward, passionate and focus on preventing and stopping cyber-attacks.</br>
-</br>
 ♝I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
 
