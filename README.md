@@ -5,11 +5,8 @@
 ♝I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
 
-  * :hourglass_flowing_sand: I’m currently learning **Go, Cloud Security, and Blue Team Operations**
-  * I'm studying about 
-    * :seedling: CompTIA Network+
-    * :seedling: Cisco CyberOps Associate 
-    * :seedling: AWS Solutions Architect Associate 
+  * :hourglass_flowing_sand: I’m currently learning **Go and Blue Team Operations**
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/gokhangokcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhangokcen" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/g0kh4n" target="blank"><img align="center" src="https://onurgule.com.tr/wp-content/uploads/2021/07/THMlogo.png" alt="g0kh4n" height="30" width="50" /></a>
