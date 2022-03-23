@@ -46,11 +46,7 @@
   "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt = "bootstrap" width = "40" height = "40" / ></a ><a href =
   "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt = "bootstrap" width = "40" height = "40" / ></a ><a href =
-  "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt = "bootstrap" width = "40" height = "40" / ></a >
- 
-  
+  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt = "bootstrap" width = "40" height = "40" / ></a >
   </p >
   
   
