@@ -27,9 +27,7 @@
   "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg"
   alt = "python" width = "40" height = "40" / ></a> <a href =
-  "#" target = "_blank" > <img src =
-  "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/django.svg" alt =
-  "Django" width = "40" height = "40" / ></a > <a href =
+  "#" target = "_blank" > <a href =
   "#" target = "_blank" > <img src =
   "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt =
   "linux" width = "40" height = "40" / ></a > <a href =
@@ -39,14 +37,7 @@
   "#" target = "_blank" > <img src =
   "https://cylab.be/storage/blog/65/files/GczoDUuisS9oISm7pRkZLQjEjpjQ5jWsMJdAm8Yu.png" alt =
   "security onion" width = "50" height = "40" / ></a > <a href =
-  "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt = "html" width = "40" height = "40" / ></a ><a href =
-  "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt = "css" width = "40" height = "40" / ></a ><a href =
-  "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt = "bootstrap" width = "40" height = "40" / ></a ><a href =
-  "#" target = "_blank" > <img src =
-  "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt = "bootstrap" width = "40" height = "40" / ></a >
+  "#" target = "_blank" >
   </p >
   
   
