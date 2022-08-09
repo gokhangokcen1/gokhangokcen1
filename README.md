@@ -5,6 +5,8 @@
 ♝ I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
 
+<p>a</p>
+
   * :hourglass_flowing_sand: I’m currently learning **Backend Development with Django, Go, Penetration Testing, Blue Team Operations**
 
 <h3 align="left">Connect with me:</h3>
