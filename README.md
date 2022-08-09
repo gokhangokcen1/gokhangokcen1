@@ -2,7 +2,7 @@
 <h3 align="centerElectrical and Electornics Engineering Student</h3>
 ♝Highly motivated individual with interests in all technologies.
 </br>
-♝I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
+♝ I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
 
   * :hourglass_flowing_sand: I’m currently learning **Backend Development with Django, Go, Penetration Testing, Blue Team Operations**
