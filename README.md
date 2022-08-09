@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gökhan</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
-♝Highly motivated individual with interests in Penetration Testing, Threat Hunting.
+<h3 align="centerElectrical and Electornics Engineering Student</h3>
+♝Highly motivated individual with interests in all technologies.
 </br>
 ♝I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
