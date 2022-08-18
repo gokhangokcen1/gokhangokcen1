@@ -4,7 +4,8 @@
 </br>
 ♝ I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
 </br>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gokhangokcen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/gokhangokcen/en?trk=profile-badge">Gökhan Gökcen</a></div>
+              
 <p>a</p>
 
   * :hourglass_flowing_sand: I’m currently learning **Backend Development with Django, Go, Penetration Testing, Blue Team Operations**
