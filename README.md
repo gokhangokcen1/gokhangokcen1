@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Gökhan</h1>
 <h3 align="center>Electrical and Electornics Engineering Student</h3>
 ♝Highly motivated individual with interests in all technologies.
-</br>
+<br>
 ♝ I totally agree the Feynman Technique (Teach for Learn) . So, I write blogs and articles what I currently learning. </br>
-</br>
+<br>
 
 
   * :hourglass_flowing_sand: I’m currently learning **Backend Development with Django, Go, Penetration Testing, Blue Team Operations**
