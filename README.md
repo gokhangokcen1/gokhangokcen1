@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
 <h3 align="center">I am an Electrical and Electronics Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangokcen1&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangokcen1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangokcen1" alt="gokhangokcen1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gokhangokcenn" target="blank"><img src="https://img.shields.io/twitter/follow/gokhangokcenn?logo=twitter&style=for-the-badge" alt="gokhangokcenn" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, Django**
 
