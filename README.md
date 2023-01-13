@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangokcen1&" alt="gokhangokcen1" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhangokcen1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhangokcen1&theme=tokyonight) ---!>
