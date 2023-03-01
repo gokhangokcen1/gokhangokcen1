@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
 <h3 align="center">Electrical and Electronics Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangokcen1" alt="gokhangokcen1" /></a> </p>
 
 - 🌱 I’m currently learning **C/C++ and Machine Learning**
 
