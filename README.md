@@ -2,7 +2,7 @@
 <h3 align="center">Electrical and Electronics Engineering Student</h3>
 
 
-- 🌱 I’m currently learning **C & Django**
+- 🌱 I’m currently learning **C & Web Application Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
