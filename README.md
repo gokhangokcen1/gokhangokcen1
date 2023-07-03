@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
-<h3 align="center">Electrical and Electronics Engineering Student</h3>
+<h3 align="center">Sophomore Electrical and Electronics Engineering Student</h3>
 
 
 - 🌱 I’m currently learning **C & Web Application Security**
