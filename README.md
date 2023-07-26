@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
-<h3 align="center">Sophomore Electrical and Electronics Engineering Student</h3>
+<h3 align="center">Sophomore Electrical and Electronics Engineering & OSSU Computer Science Student</h3>
 
-
-- 🌱 I’m currently learning **C & Web Application Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
