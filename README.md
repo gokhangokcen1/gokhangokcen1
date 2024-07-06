@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
-<h3 align="center">Sophomore Electrical and Electronics Engineering</h3>
+<h3 align="center">Junior Electrical and Electronics Engineering</h3>
 
 
 <h3 align="left">Connect with me:</h3>
