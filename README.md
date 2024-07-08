@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gökhan Gökcen</h1>
 <h3 align="center">Junior Electrical and Electronics Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangokcen1" alt="gokhangokcen1" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Web Application Security, Network Security**
 
-- 📫 How to reach me **https://linkedin.com/in/gokhangokcen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
