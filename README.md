@@ -9,7 +9,7 @@
 ### Tech Knowledge
 <p align="start">
   <a href="https://www.linkedin.com/in/gokhangokcen/">
-    <img src="https://skillicons.dev/icons?i=linux,python,c,bash,django,html,css,bootstrap,matlab" />
+    <img src="https://skillicons.dev/icons?i=linux,python,django" />
   </a>
 </p>
 
