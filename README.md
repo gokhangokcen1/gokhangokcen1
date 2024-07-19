@@ -2,7 +2,7 @@
 <h3 align="center">Junior Electrical and Electronics Engineering</h3>
 
 
-- 🌱 I’m currently learning `Python`, `Web Application Security`, `Network Security`, `Reverse Engineering`
+- 🌱 I’m currently learning `Python` `Web Application Security` `Network Security` `Reverse Engineering`
 
 
 
