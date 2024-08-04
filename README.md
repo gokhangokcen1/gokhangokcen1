@@ -2,8 +2,8 @@
 <h3 align="center">Junior Electrical and Electronics Engineering</h3>
 
 
-- 🌱 I’m currently working on `Cyber Security` `Reverse Engineering`
-- 📖 I'm currently learning `Python` `Django` `Assembly`
+- 🌱 I’m currently working on `Back End Development` `Cyber Security` 
+- 📖 I'm currently learning `Python` `Django` 
 
 <!--
 ### 🌐 Socials:
