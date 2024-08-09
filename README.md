@@ -1,5 +1,5 @@
 <h1 align="center">Gökhan Gökcen</h1>
-<h3 align="center">Junior Electrical and Electronics Engineering</h3>
+<h3 align="center">Junior Electrical and Electronics Engineering | Self-Taught Computer Science</h3>
 
 
 - 🌱 I’m currently working on `Back End Development` `Cyber Security` 
