@@ -2,7 +2,7 @@
 <h3 align="center">Junior Electrical and Electronics Engineering | Self-Taught Computer Science</h3>
 
 
-- 🌱 I’m currently working on `Cyber Security` `Image Processing`
+- 🌱 I’m currently working on `Cyber Security` 
 - 📖 I'm currently learning `Python` `Django` 
 
 <!--
