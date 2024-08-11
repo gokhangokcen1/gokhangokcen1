@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m heavily interested in `Cyber Security` `Machine Learning` 
-- 📖 I'm currently learning `Python` `Django` 
+- 📖 I'm currently learning `Python`
 
 <!--
 ### 🌐 Socials:
