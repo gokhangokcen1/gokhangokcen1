@@ -2,8 +2,8 @@
 <h3 align="center">Junior Electrical and Electronics Engineering | Self-Taught Computer Science</h3>
 
 
-- 🌱 I’m heavily interested in `Cyber Security` `Machine Learning` 
-- 📖 I'm currently learning `Python`
+- 🌱 I’m heavily interested in `Electronics` `CS`
+- 📖 I'm currently learning `Python` `Systematic Program Design`
 
 <!--
 ### 🌐 Socials:
