@@ -4,10 +4,11 @@
 
 - 🌱 I’m heavily interested in `Electronics` `CS`
 - 📖 I'm currently learning `Python` `Systematic Program Design`
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=gokhangokcen1&theme=dark&hide_border=true&card_width=150&card_height=150&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!--
+
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokhangokcen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gokhangokcen) 
 -->
