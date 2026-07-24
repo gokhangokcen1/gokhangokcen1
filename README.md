@@ -1,6 +1,9 @@
-<h1 align="center"><img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> Gökhan Gökcen <img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> </h1>   
+<div align="center">
+  <img src="https://github.com/gokhangokcen1/gokhangokcen1.github.io/blob/main/shakespeare.png" height="150" alt="Açıklama">
+</div>
 
-
+<!-- <h1 align="center"><img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> Gökhan Gökcen <img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> </h1>    -->
+<h1 align="center">Gökhan Gökcen</h1>   
 
 <h3 align="center">Electrical & Electronics Engineering · SDU</h3>
 
