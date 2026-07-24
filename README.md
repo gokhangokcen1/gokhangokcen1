@@ -44,7 +44,6 @@ I am particularly interested in network protocols, traffic analysis, system visi
   A deep learning project focused on detecting asthma from cough audio using audio processing and neural networks.
 
 ### Technologies
-### Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=go,python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" />
 </p>
