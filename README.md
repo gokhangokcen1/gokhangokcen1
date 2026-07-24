@@ -45,11 +45,6 @@ I am particularly interested in network protocols, traffic analysis, system visi
 
 ### Technologies
 ### Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" />
-</p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=go,python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" />
 </p>
