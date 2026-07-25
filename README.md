@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gokhangokcen1.github.io">🌐 Portfolio</a>
+  <a href="https://gokhangokcen1.github.io">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gokhangokcen">LinkedIn</a>
 </p>
