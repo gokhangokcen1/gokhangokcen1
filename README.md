@@ -46,11 +46,11 @@ I am particularly interested in network protocols, traffic analysis, system visi
 * **[Audio-Based Asthma Detection](https://github.com/gokhangokcen1/Audio-Based-Asthma-Detection)**
   A deep learning project focused on detecting asthma from cough audio using audio processing and neural networks.
 
-### Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" />
-</p>
-
+* **[Intrusion Detection System v0](https://github.com/gokhangokcen1/intrusion-detection-system)**
+  A rule-based intrusion detection system that analyses real-time network traffic to identify suspicious activity.
+  
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,go,python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF" /> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" alt="FreeRTOS" /> </p>
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokhangokcen1)](https://git.io/streak-stats)
 -->
