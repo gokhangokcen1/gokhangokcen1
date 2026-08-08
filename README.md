@@ -22,15 +22,15 @@
 
 ### About Me
 
-I combine my Electrical and Electronics Engineering background with software development, artificial intelligence and cybersecurity.
+I combine my Electrical and Electronics Engineering background with **systems programming, computer networks, embedded systems and applied machine learning**.
 
-I am particularly interested in network protocols, traffic analysis, system visibility, computer vision and audio-based deep learning applications.
+I am particularly interested in **network protocols, operating systems, low-level programming, embedded development and computer vision**.
 
-* Currently working with **Go, Vue.js, PostgreSQL and PyTorch**
-* Developing networking and security tools from scratch
-* Learning more about **network security, traffic analysis and protocol-level communication**
-* Exploring **machine learning, deep learning and computer vision**
-* Building practical solutions for real-world problems
+- Currently working with **C, Go, ESP32, ESP-IDF and FreeRTOS**
+- Strengthening my foundations in **computer networks and operating systems**
+- Building networking, embedded and systems-oriented projects from scratch
+- Using **Python, PyTorch and computer vision** for practical machine learning applications
+- Focusing on understanding how software interacts with **hardware, operating systems and networks**
 
 ### Selected Projects
 
@@ -40,8 +40,9 @@ I am particularly interested in network protocols, traffic analysis, system visi
 * **[AI Web Categorizer](https://github.com/gokhangokcen1/AI-Website-Classifier)**
   An AI-powered web application that crawls and categorizes websites using XLM-RoBERTa.
 
-* **[Personal Trainer](https://github.com/gokhangokcen1/personal-trAIner)**
-  A computer vision-based web application designed to support exercise analysis and personal training.
+
+<!-- * **[Personal Trainer](https://github.com/gokhangokcen1/personal-trAIner)**
+  A computer vision-based web application designed to support exercise analysis and personal training. -->
 
 * **[Audio-Based Asthma Detection](https://github.com/gokhangokcen1/Audio-Based-Asthma-Detection)**
   A deep learning project focused on detecting asthma from cough audio using audio processing and neural networks.
