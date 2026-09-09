@@ -1,15 +1,12 @@
 <div align="center">
   <img src="https://github.com/gokhangokcen1/gokhangokcen1.github.io/blob/main/shakespeare.png" height="150" alt="Açıklama">
 </div>
-
-<!-- <h1 align="center"><img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> Gökhan Gökcen <img src="https://go.dev/blog/gopher/gopher.png" height="48" alt="Go Gopher" /> </h1>    -->
 <h1 align="center">Gökhan Gökcen</h1>   
 
-<h3 align="center">Electrical & Electronics Engineering · SDU</h3>
+<h3 align="center">Electrical & Electronics Engineer</h3>
 
 <p align="center">
-  Building practical projects in <strong>Artificial Intelligence</strong>,
-  <strong>Cybersecurity</strong> and <strong>Network Technologies</strong>.
+  <strong>Embedded - Electronics - Robotics - AI<strong>
 </p>
 
 <p align="center">
@@ -17,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gokhangokcen">LinkedIn</a>
 </p>
-
+<!--
 ---
 
 ### About Me
@@ -40,10 +37,6 @@ I am particularly interested in **network protocols, operating systems, low-leve
 * **[AI Web Categorizer](https://github.com/gokhangokcen1/AI-Website-Classifier)**
   An AI-powered web application that crawls and categorizes websites using XLM-RoBERTa.
 
-
-<!-- * **[Personal Trainer](https://github.com/gokhangokcen1/personal-trAIner)**
-  A computer vision-based web application designed to support exercise analysis and personal training. -->
-
 * **[Audio-Based Asthma Detection](https://github.com/gokhangokcen1/Audio-Based-Asthma-Detection)**
   A deep learning project focused on detecting asthma from cough audio using audio processing and neural networks.
 
@@ -52,6 +45,4 @@ I am particularly interested in **network protocols, operating systems, low-leve
   
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,go,python,pytorch,vue,postgres,sqlite,linux,git" alt="Technologies" /> </p>
 <p align="center"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF" /> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" alt="FreeRTOS" /> </p>
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokhangokcen1)](https://git.io/streak-stats)
 -->
