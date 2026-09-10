@@ -6,7 +6,7 @@
 <h3 align="center">Electrical & Electronics Engineer</h3>
 
 <p align="center">
-  <strong>Embedded - Electronics - Robotics - AI<strong>
+  <strong>Embedded - Electronics - AI<strong>
 </p>
 
 <p align="center">
