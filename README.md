@@ -6,7 +6,8 @@
 <h3 align="center">Electrical & Electronics Engineer</h3>
 
 <p align="center">
-  <strong>Embedded - Electronics - AI<strong>
+  <strong>Embedded - Robotics<strong>
+    <strong>C/C++ - ROS2 (Jazzy) - Gazebo - SLAM - NAV2 <strong>
 </p>
 
 <p align="center">
