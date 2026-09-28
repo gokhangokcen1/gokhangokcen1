@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <strong>C/C++ - ROS2 (Jazzy) - Gazebo - SLAM - NAV2 <strong>
+    <strong>C/C++ - Gazebo - SLAM - NAV2 <strong>
 </p>
 
 <p align="center">
