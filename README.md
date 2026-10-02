@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <strong>C/C++ - ROS2 - Gazebo <strong>
+    <strong>C/C++ - Python - ROS2 - Gazebo <strong>
 </p>
 
 <p align="center">
