@@ -6,6 +6,10 @@
 <h3 align="center">Electrical & Electronics Engineer</h3>
 
 <p align="center">
+  <a href="https://github.com/gokhangokcen1/gokhangokcen1.github.io/blob/main/G%C3%96KHAN-G%C3%96KCEN-CV-TR.pdf">CV'mi Görüntüle / İndir</a>
+</p>
+
+<p align="center">
   <strong>Embedded - Robotics<strong> 
 </p>
 
@@ -18,8 +22,13 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gokhangokcen">LinkedIn</a>
 </p>
+
+
+
 <!--
 ---
+
+
 
 ### About Me
 
