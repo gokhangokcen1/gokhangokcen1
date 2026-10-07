@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gokhangokcen1/gokhangokcen1.github.io/blob/main/shakespeare.png" height="150" alt="Açıklama">
+  <img src="https://github.com/gokhangokcen1/gokhangokcen1.github.io/blob/main/pics/shakespeare.png" height="150" alt="Açıklama">
 </div>
 <h1 align="center">Gökhan Gökcen</h1>   
 
